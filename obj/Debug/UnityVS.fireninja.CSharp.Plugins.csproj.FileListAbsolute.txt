@@ -1,0 +1,11 @@
+G:\Game Development\fireninja\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.dll
+G:\Game Development\fireninja\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.pdb
+G:\Game Development\fireninja\Temp\UnityVS_bin\Debug\UnityEditor.dll
+G:\Game Development\fireninja\Temp\UnityVS_bin\Debug\UnityEngine.dll
+G:\Game Development\fireninja\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+G:\Game Development\fireninja\Temp\UnityVS_bin\Debug\UnityEngine.xml
+G:\Game Development\fireninja\Temp\UnityVS_bin\Debug\UnityEditor.xml
+G:\Game Development\fireninja\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+G:\Game Development\fireninja\obj\Debug\UnityVS.fireninja.CSharp.Plugins.csprojResolveAssemblyReference.cache
+G:\Game Development\fireninja\obj\Debug\Assembly-CSharp-firstpass.dll
+G:\Game Development\fireninja\obj\Debug\Assembly-CSharp-firstpass.pdb
